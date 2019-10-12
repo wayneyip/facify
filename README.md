@@ -1,7 +1,15 @@
 # facify
 ![Facify_img1](https://raw.githubusercontent.com/wayneyip/facify/master/tools_facify.gif)
 
-Maya Python tool to automate curve-based rigging for flexible mouth/eye animation. 
+Maya Python tool to automate curve-based rigging for flexible mouth/eye animation.
+
+[Video Link](https://vimeo.com/365357089)
+
+## Features
+- Joints aim constrained to locators bound to a high-density curve
+- Wire deformer to drive high-density linear curve with a low-density cubic curve
+- Controls angled to follow joint direction/face curvature
+- Blendshape-based Smart Close system for adjustable blink/close attributes
 
 ## Instructions
 
